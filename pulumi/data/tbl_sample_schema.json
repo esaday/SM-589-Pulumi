@@ -1,0 +1,20 @@
+[
+    {
+      "description": "identifier",
+      "name": "id",
+      "type": "STRING",
+      "mode": "Required"
+    },
+    {
+      "description": "Action being performed",
+      "name": "action_name",
+      "type": "STRING",
+      "mode": "Nullable"
+    },
+    {
+        "description": "Amount of time in seconds to perform the action",
+        "name": "process_time",
+        "type": "NUMERIC",
+        "mode": "Nullable"
+      }
+   ]

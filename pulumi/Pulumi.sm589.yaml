@@ -1,0 +1,6 @@
+config:
+  aws:region: eu-west-1
+  gcp:project: sm589-project
+  gcp:region: europe-west1
+  gcp:zone: europe-west1-b
+  pulumi-test:gcp_creds_path: /Users/esaday/.ssh/sm589-project-42f71e8a1183.json

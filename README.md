@@ -15,6 +15,12 @@ Please refer to the **Project Report** for the detailed explanation of the proje
 ### Prerequisites and Installation
 `<TBD>`
 
+
+To install extra dependencies for the `Pulumi` with `venv`, run the following command:
+```sh
+venv/bin/pip install -r requirements.txt  
+```
+
 ---
 
 ### Running the Project
@@ -26,6 +32,7 @@ Please refer to the **Project Report** for the detailed explanation of the proje
 
 References to the code used in this project (both directly or by deriving) are listed below:
 `<TBD>`
+https://github.com/sidpalas/cloud-resume-challenge-aws/blob/master/pulumi/resources/lambda_fn.py
 ---
 
 ## Author

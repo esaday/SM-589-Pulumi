@@ -1,0 +1,6 @@
+*.pyc
+venv/
+
+package/
+
+.local-vars
